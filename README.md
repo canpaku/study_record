@@ -14,4 +14,6 @@
 [5.リアクティブディクショナリ](https://github.com/lisaco-ono/study_record/issues/8)  
 [6.ユーザアカウント](https://github.com/lisaco-ono/study_record/issues/9)  
 
+## Node.js
+[外部ファイルの関数の呼び出し方](https://github.com/lisaco-ono/study_record/issues/10#issuecomment-357144284)
 
